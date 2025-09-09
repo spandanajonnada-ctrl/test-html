@@ -1,0 +1,40 @@
+
+            body{  
+              background-color:rgb(150, 14, 143);
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+                font-size:large;
+            }
+            h1{
+                color:aquamarine;
+                text-align: center;
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-style: italic;
+                font-weight:lighter ;
+                text-transform:uppercase;
+            
+
+
+            }
+            p{
+                color:aquamarine;
+                text-align: center;
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-style: italic;
+                font-weight:lighter ;
+                text-transform:capitalize;
+            
+            }
+            img{
+                border-radius: 19%;
+            }
+            profiledata{
+                color:black;
+            }
+            #profiledata{
+                background-color: blue;
+                color:aqua;
+            }
+
+        </style>

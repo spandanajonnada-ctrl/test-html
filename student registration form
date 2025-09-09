@@ -1,0 +1,54 @@
+
+
+
+
+<html>
+     <head>  
+          <title> 
+             student registration form
+          <title> 
+     <head> 
+          <body> 
+              <center> 
+                  <h1>student registration form</h1>
+                  <form action="#" method="post"> 
+                        <table border="2"> 
+                            <tbody> 
+                                <tr> 
+                                      <th> Student RollNumber</th>
+                                      <td> <input type=text 
+                                           name="studentRollNumber"
+                                             required placeholder="Enter">
+                                      </td> 
+                                      </tr> 
+                                         <th>Student Name</th>
+                                        <td> <input type="text"    name="student"
+                                               required placeholder="Enter the"
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            /
+                                      td>
+                                      </td> 
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </table>
+                  </form>
+              </center>
+          </body>
+     </head>
+          </title>
+          </title>
+     </head>
+</html>
+       
+
+
+
+
+
+
